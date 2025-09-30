@@ -1,3 +1,5 @@
+package _010_ZweiZahlenGenauVergleichen;
+
 import java.util.Random;
 
 public class _010_SW {
