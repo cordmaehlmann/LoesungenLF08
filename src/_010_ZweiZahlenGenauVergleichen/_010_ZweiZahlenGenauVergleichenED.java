@@ -1,4 +1,4 @@
-package Uebungen;
+package _010_ZweiZahlenGenauVergleichen ;
 
 import java.util.Random;
 
