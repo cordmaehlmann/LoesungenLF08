@@ -1,4 +1,4 @@
-package _010_ZweiZahlenGenauVergleichen;
+package _020_MaxMaxIHK;
 
 public class DieAufgabenstellungIstImAnderenProjekt {
 }
