@@ -1,6 +1,6 @@
 package JavaUebungenLF08;
 
-public class _030_Zahlenreihen {
+public class _030_ZahlenreihenRR {
 
 
     public static void main(String[] args) {
