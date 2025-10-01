@@ -1,4 +1,4 @@
-package _020_MaxMaxIHK;
+package _060_KleinesEinmaleins;
 
 public class DieAufgabenstellungIstImAnderenProjekt {
 }
