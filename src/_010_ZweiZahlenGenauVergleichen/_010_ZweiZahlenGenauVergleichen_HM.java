@@ -1,4 +1,9 @@
+package _010_ZweiZahlenGenauVergleichen;
+
 import java.util.Random;
+
+
+public class _010_ZweiZahlenGenauVergleichen_HM {
 
     public static void main(String[] args) {
         Random rand = new Random();
@@ -19,3 +24,4 @@ import java.util.Random;
         }
 
 
+}
