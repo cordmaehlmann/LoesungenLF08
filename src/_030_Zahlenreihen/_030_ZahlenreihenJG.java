@@ -9,16 +9,16 @@ public class _030_ZahlenreihenJG {
              * Schreibe eine for-Schleife, die Folgendes ausgibt:
              * 100 90 80 70 60 50 40 30 20 10
              */
-             for (int i = 100; i >= 10; i -= 10) {
-             System.out.print(i + " ");
-
+        	//for (int i = 100; i >= 10; i -= 10) {
+            // 
+             
 
             /* 2.
              * Schreibe eine for-Schleife, die Folgendes ausgibt:
              * 2000 3000 4000 5000 6000
              */
-            //for (int j = 2000; j <= 6000; j += 1000) {
-            //        System.out.print(j + " ");
+            for (int j = 2000; j <= 6000; j += 1000) {
+                    System.out.print(j + " ");
 
             /* 3.
              * Schreibe eine for-Schleife, die Folgendes ausgibt:
@@ -108,4 +108,5 @@ public class _030_ZahlenreihenJG {
         }
     }
 }
+
 
