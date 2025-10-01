@@ -1,4 +1,4 @@
-package _030_Zahlenreihen;
+package _050_EigeneKlasse;
 
 public class DieAufgabenstellungIstImAnderenProjekt {
 }
