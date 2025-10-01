@@ -10,7 +10,7 @@ public class _030_ZahlenreihenJG {
              * 100 90 80 70 60 50 40 30 20 10
              */
         	//for (int i = 100; i >= 10; i -= 10) {
-            // 
+            // System.out.print(i + " ");
              
 
             /* 2.
