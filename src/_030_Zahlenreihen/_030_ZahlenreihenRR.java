@@ -1,4 +1,4 @@
-package JavaUebungenLF08;
+package _030_Zahlenreihen;
 
 public class _030_ZahlenreihenRR {
 
