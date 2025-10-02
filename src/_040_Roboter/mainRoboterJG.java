@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 
 public class mainRoboterJG {
-	// Datei: Main.java
+	// Datei: _050_EigeneKlasse._050_Daniel.Main.java
 	
 	public static void main(String[] args) {
 		{
