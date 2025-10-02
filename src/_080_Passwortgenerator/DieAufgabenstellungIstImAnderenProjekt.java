@@ -1,4 +1,4 @@
-package _050_EigeneKlasse;
+package _080_Passwortgenerator;
 
 public class DieAufgabenstellungIstImAnderenProjekt {
 }
