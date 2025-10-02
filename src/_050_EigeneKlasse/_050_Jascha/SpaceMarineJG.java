@@ -1,4 +1,4 @@
-package _050_EigeneKlasse;
+package _050_EigeneKlasse._050_Jascha;
 
 public class SpaceMarineJG {
 
