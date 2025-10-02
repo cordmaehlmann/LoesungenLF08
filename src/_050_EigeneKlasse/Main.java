@@ -1,4 +1,4 @@
-package Übungen;
+package _050_EigeneKlasse;
 
 public class Main {
     //Made by David Brauch

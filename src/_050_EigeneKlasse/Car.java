@@ -1,4 +1,4 @@
-package Übungen;
+package _050_EigeneKlasse;
 
 public class Car {
     //Made by David Brauch
@@ -39,8 +39,8 @@ public class Car {
 
         // Zusatzmethode
         public void accelerate() {
-            speed += 10;
-            System.out.println(brand + " beschleunigt auf " + speed + " km/h.");
+            this.speed += 10;
+            System.out.println(this.brand + " beschleunigt auf " + this.speed + " km/h.");
         }
 
         // Statische Methode

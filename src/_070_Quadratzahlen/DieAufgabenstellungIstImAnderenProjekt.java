@@ -1,4 +1,4 @@
-package _060_KleinesEinmaleins;
+package _070_Quadratzahlen;
 
 public class DieAufgabenstellungIstImAnderenProjekt {
 }
