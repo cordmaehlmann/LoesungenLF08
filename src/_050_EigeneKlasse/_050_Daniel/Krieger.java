@@ -71,7 +71,7 @@ public class Krieger {
     // toString-Methode
     @Override
     public String toString() {
-        return "_050_EigeneKlasse._050_Daniel.Krieger [Name=" + name +
+        return "Krieger [Name=" + name +
                 ", Lebenspunkte=" + lebenspunkte +
                 ", Stärke=" + staerke + "]";
     }

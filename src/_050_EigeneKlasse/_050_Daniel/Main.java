@@ -15,6 +15,6 @@ public class Main {
         k2.angreifen(k1);
 
         // Anzahl aller _050_EigeneKlasse._050_Daniel.Krieger anzeigen
-        System.out.println("Es gibt insgesamt " + Krieger.getAnzahlKrieger() + " _050_EigeneKlasse._050_Daniel.Krieger.");
+        System.out.println("Es gibt insgesamt " + Krieger.getAnzahlKrieger() + " Krieger.");
     }
 }

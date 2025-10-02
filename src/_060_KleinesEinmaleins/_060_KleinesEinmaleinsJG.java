@@ -19,14 +19,16 @@ public class _060_KleinesEinmaleinsJG {
 	     * 009 018 027 036 045 054 063 072 081 090
 	     * 010 020 030 040 050 060 070 080 090 100
 	     */
-		public static void main (String args[]){
+        // public static void main (String args[]){
+        public static void main (String[] args){
+
 			 for (int i = 1; i <= 10; i++) {
 				 
 		            for (int j = 1; j <= 10; j++) {
 		            	
 		                int produkt = i * j;
 		                
-		              System.out.printf("%03d ", produkt);
+		                System.out.printf("%03d ", produkt);
 		              
 		            }
 		            
